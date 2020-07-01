@@ -1,2 +1,2 @@
 # Liu
-my first git project
+my first git project about special produce
